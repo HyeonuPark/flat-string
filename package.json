@@ -1,0 +1,22 @@
+{
+  "name": "flat-string",
+  "version": "1.0.0",
+  "description": "flatten prefixed/postfixed strings",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeonupark/flat-string.git"
+  },
+  "keywords": [
+    "prefix",
+    "postfix",
+    "flat"
+  ],
+  "author": "HyeonuPark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyeonupark/flat-string/issues"
+  },
+  "homepage": "https://github.com/hyeonupark/flat-string#readme"
+}
